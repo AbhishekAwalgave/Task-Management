@@ -1,4 +1,4 @@
-Task Management System using Python (CLI Based)
+✅Task Management System using Python (CLI Based)
 📌 Project Description:
 This is a simple Task Management System built using Python and runs in the command-line interface (CLI). The application allows users to add, update, delete, and view tasks directly through terminal input. It’s ideal for beginners to learn Python basics, loops, conditionals, and list manipulation.
 
